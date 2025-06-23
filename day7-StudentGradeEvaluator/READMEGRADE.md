@@ -71,7 +71,7 @@ This project is part of my **#100DaysOfCode** Java Developer journey. It's not j
 ### 🔗 Connect with me
 
 This project is available on GitHub:  
-👉 [https://github.com/jawadberjawi/day7-student-grade-evaluator](https://github.com/jawadberjawi/day7-student-grade-evaluator)
+👉 https://github.com/jawadberjawi/day7-StudentGradeEvaluator
 
 ---
 
